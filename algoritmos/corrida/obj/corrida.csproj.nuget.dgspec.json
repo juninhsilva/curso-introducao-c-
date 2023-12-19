@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/corrida/corrida.csproj": {}
+  },
+  "projects": {
+    "/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/corrida/corrida.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/corrida/corrida.csproj",
+        "projectName": "corrida",
+        "projectPath": "/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/corrida/corrida.csproj",
+        "packagesPath": "/home/junior/.nuget/packages/",
+        "outputPath": "/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/corrida/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/junior/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/consumo/obj/Debug/net5.0/consumo.csprojAssemblyReference.cache
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/consumo/obj/Debug/net5.0/consumo.GeneratedMSBuildEditorConfig.editorconfig
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/consumo/obj/Debug/net5.0/consumo.AssemblyInfoInputs.cache
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/consumo/obj/Debug/net5.0/consumo.AssemblyInfo.cs
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/consumo/obj/Debug/net5.0/consumo.csproj.CoreCompileInputs.cache
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/consumo/bin/Debug/net5.0/consumo
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/consumo/bin/Debug/net5.0/consumo.deps.json
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/consumo/bin/Debug/net5.0/consumo.runtimeconfig.json
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/consumo/bin/Debug/net5.0/consumo.runtimeconfig.dev.json
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/consumo/bin/Debug/net5.0/consumo.dll
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/consumo/bin/Debug/net5.0/ref/consumo.dll
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/consumo/bin/Debug/net5.0/consumo.pdb
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/consumo/obj/Debug/net5.0/consumo.dll
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/consumo/obj/Debug/net5.0/ref/consumo.dll
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/consumo/obj/Debug/net5.0/consumo.pdb
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/consumo/obj/Debug/net5.0/consumo.genruntimeconfig.cache

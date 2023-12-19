@@ -1,0 +1,16 @@
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/figurinhas/obj/Debug/net5.0/figurinhas.csprojAssemblyReference.cache
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/figurinhas/obj/Debug/net5.0/figurinhas.GeneratedMSBuildEditorConfig.editorconfig
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/figurinhas/obj/Debug/net5.0/figurinhas.AssemblyInfoInputs.cache
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/figurinhas/obj/Debug/net5.0/figurinhas.AssemblyInfo.cs
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/figurinhas/obj/Debug/net5.0/figurinhas.csproj.CoreCompileInputs.cache
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/figurinhas/bin/Debug/net5.0/figurinhas
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/figurinhas/bin/Debug/net5.0/figurinhas.deps.json
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/figurinhas/bin/Debug/net5.0/figurinhas.runtimeconfig.json
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/figurinhas/bin/Debug/net5.0/figurinhas.runtimeconfig.dev.json
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/figurinhas/bin/Debug/net5.0/figurinhas.dll
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/figurinhas/bin/Debug/net5.0/ref/figurinhas.dll
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/figurinhas/bin/Debug/net5.0/figurinhas.pdb
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/figurinhas/obj/Debug/net5.0/figurinhas.dll
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/figurinhas/obj/Debug/net5.0/ref/figurinhas.dll
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/figurinhas/obj/Debug/net5.0/figurinhas.pdb
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/figurinhas/obj/Debug/net5.0/figurinhas.genruntimeconfig.cache

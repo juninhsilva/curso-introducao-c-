@@ -1,0 +1,16 @@
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/amigo/bin/Debug/net5.0/amigo
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/amigo/bin/Debug/net5.0/amigo.deps.json
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/amigo/bin/Debug/net5.0/amigo.runtimeconfig.json
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/amigo/bin/Debug/net5.0/amigo.runtimeconfig.dev.json
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/amigo/bin/Debug/net5.0/amigo.dll
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/amigo/bin/Debug/net5.0/ref/amigo.dll
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/amigo/bin/Debug/net5.0/amigo.pdb
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/amigo/obj/Debug/net5.0/amigo.csprojAssemblyReference.cache
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/amigo/obj/Debug/net5.0/amigo.GeneratedMSBuildEditorConfig.editorconfig
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/amigo/obj/Debug/net5.0/amigo.AssemblyInfoInputs.cache
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/amigo/obj/Debug/net5.0/amigo.AssemblyInfo.cs
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/amigo/obj/Debug/net5.0/amigo.csproj.CoreCompileInputs.cache
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/amigo/obj/Debug/net5.0/amigo.dll
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/amigo/obj/Debug/net5.0/ref/amigo.dll
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/amigo/obj/Debug/net5.0/amigo.pdb
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/amigo/obj/Debug/net5.0/amigo.genruntimeconfig.cache

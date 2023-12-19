@@ -1,0 +1,16 @@
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/minutos/bin/Debug/net5.0/minutos
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/minutos/bin/Debug/net5.0/minutos.deps.json
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/minutos/bin/Debug/net5.0/minutos.runtimeconfig.json
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/minutos/bin/Debug/net5.0/minutos.runtimeconfig.dev.json
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/minutos/bin/Debug/net5.0/minutos.dll
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/minutos/bin/Debug/net5.0/ref/minutos.dll
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/minutos/bin/Debug/net5.0/minutos.pdb
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/minutos/obj/Debug/net5.0/minutos.csprojAssemblyReference.cache
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/minutos/obj/Debug/net5.0/minutos.GeneratedMSBuildEditorConfig.editorconfig
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/minutos/obj/Debug/net5.0/minutos.AssemblyInfoInputs.cache
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/minutos/obj/Debug/net5.0/minutos.AssemblyInfo.cs
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/minutos/obj/Debug/net5.0/minutos.csproj.CoreCompileInputs.cache
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/minutos/obj/Debug/net5.0/minutos.dll
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/minutos/obj/Debug/net5.0/ref/minutos.dll
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/minutos/obj/Debug/net5.0/minutos.pdb
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/minutos/obj/Debug/net5.0/minutos.genruntimeconfig.cache

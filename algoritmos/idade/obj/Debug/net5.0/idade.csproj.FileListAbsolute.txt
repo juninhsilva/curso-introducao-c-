@@ -1,0 +1,16 @@
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/idade/obj/Debug/net5.0/idade.csprojAssemblyReference.cache
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/idade/obj/Debug/net5.0/idade.GeneratedMSBuildEditorConfig.editorconfig
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/idade/obj/Debug/net5.0/idade.AssemblyInfoInputs.cache
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/idade/obj/Debug/net5.0/idade.AssemblyInfo.cs
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/idade/obj/Debug/net5.0/idade.csproj.CoreCompileInputs.cache
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/idade/bin/Debug/net5.0/idade
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/idade/bin/Debug/net5.0/idade.deps.json
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/idade/bin/Debug/net5.0/idade.runtimeconfig.json
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/idade/bin/Debug/net5.0/idade.runtimeconfig.dev.json
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/idade/bin/Debug/net5.0/idade.dll
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/idade/bin/Debug/net5.0/ref/idade.dll
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/idade/bin/Debug/net5.0/idade.pdb
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/idade/obj/Debug/net5.0/idade.dll
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/idade/obj/Debug/net5.0/ref/idade.dll
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/idade/obj/Debug/net5.0/idade.pdb
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/algoritmos/idade/obj/Debug/net5.0/idade.genruntimeconfig.cache

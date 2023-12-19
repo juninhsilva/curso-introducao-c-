@@ -1,0 +1,16 @@
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/linhas/bin/Debug/net5.0/linhas
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/linhas/bin/Debug/net5.0/linhas.deps.json
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/linhas/bin/Debug/net5.0/linhas.runtimeconfig.json
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/linhas/bin/Debug/net5.0/linhas.runtimeconfig.dev.json
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/linhas/bin/Debug/net5.0/linhas.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/linhas/bin/Debug/net5.0/ref/linhas.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/linhas/bin/Debug/net5.0/linhas.pdb
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/linhas/obj/Debug/net5.0/linhas.csprojAssemblyReference.cache
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/linhas/obj/Debug/net5.0/linhas.GeneratedMSBuildEditorConfig.editorconfig
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/linhas/obj/Debug/net5.0/linhas.AssemblyInfoInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/linhas/obj/Debug/net5.0/linhas.AssemblyInfo.cs
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/linhas/obj/Debug/net5.0/linhas.csproj.CoreCompileInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/linhas/obj/Debug/net5.0/linhas.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/linhas/obj/Debug/net5.0/ref/linhas.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/linhas/obj/Debug/net5.0/linhas.pdb
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/linhas/obj/Debug/net5.0/linhas.genruntimeconfig.cache

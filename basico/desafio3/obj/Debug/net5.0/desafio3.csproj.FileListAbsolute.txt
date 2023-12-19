@@ -1,0 +1,16 @@
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafio3/obj/Debug/net5.0/desafio3.csprojAssemblyReference.cache
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafio3/obj/Debug/net5.0/desafio3.GeneratedMSBuildEditorConfig.editorconfig
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafio3/obj/Debug/net5.0/desafio3.AssemblyInfoInputs.cache
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafio3/obj/Debug/net5.0/desafio3.AssemblyInfo.cs
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafio3/obj/Debug/net5.0/desafio3.csproj.CoreCompileInputs.cache
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafio3/bin/Debug/net5.0/desafio3
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafio3/bin/Debug/net5.0/desafio3.deps.json
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafio3/bin/Debug/net5.0/desafio3.runtimeconfig.json
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafio3/bin/Debug/net5.0/desafio3.runtimeconfig.dev.json
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafio3/bin/Debug/net5.0/desafio3.dll
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafio3/bin/Debug/net5.0/ref/desafio3.dll
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafio3/bin/Debug/net5.0/desafio3.pdb
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafio3/obj/Debug/net5.0/desafio3.dll
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafio3/obj/Debug/net5.0/ref/desafio3.dll
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafio3/obj/Debug/net5.0/desafio3.pdb
+/home/junior/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafio3/obj/Debug/net5.0/desafio3.genruntimeconfig.cache

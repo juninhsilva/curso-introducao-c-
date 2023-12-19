@@ -1,0 +1,16 @@
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/soma/bin/Debug/net5.0/soma
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/soma/bin/Debug/net5.0/soma.deps.json
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/soma/bin/Debug/net5.0/soma.runtimeconfig.json
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/soma/bin/Debug/net5.0/soma.runtimeconfig.dev.json
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/soma/bin/Debug/net5.0/soma.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/soma/bin/Debug/net5.0/ref/soma.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/soma/bin/Debug/net5.0/soma.pdb
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/soma/obj/Debug/net5.0/soma.csprojAssemblyReference.cache
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/soma/obj/Debug/net5.0/soma.GeneratedMSBuildEditorConfig.editorconfig
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/soma/obj/Debug/net5.0/soma.AssemblyInfoInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/soma/obj/Debug/net5.0/soma.AssemblyInfo.cs
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/soma/obj/Debug/net5.0/soma.csproj.CoreCompileInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/soma/obj/Debug/net5.0/soma.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/soma/obj/Debug/net5.0/ref/soma.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/soma/obj/Debug/net5.0/soma.pdb
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/soma/obj/Debug/net5.0/soma.genruntimeconfig.cache

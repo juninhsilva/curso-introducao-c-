@@ -1,0 +1,16 @@
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/animais/bin/Debug/net5.0/animais
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/animais/bin/Debug/net5.0/animais.deps.json
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/animais/bin/Debug/net5.0/animais.runtimeconfig.json
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/animais/bin/Debug/net5.0/animais.runtimeconfig.dev.json
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/animais/bin/Debug/net5.0/animais.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/animais/bin/Debug/net5.0/ref/animais.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/animais/bin/Debug/net5.0/animais.pdb
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/animais/obj/Debug/net5.0/animais.csprojAssemblyReference.cache
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/animais/obj/Debug/net5.0/animais.GeneratedMSBuildEditorConfig.editorconfig
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/animais/obj/Debug/net5.0/animais.AssemblyInfoInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/animais/obj/Debug/net5.0/animais.AssemblyInfo.cs
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/animais/obj/Debug/net5.0/animais.csproj.CoreCompileInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/animais/obj/Debug/net5.0/animais.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/animais/obj/Debug/net5.0/ref/animais.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/animais/obj/Debug/net5.0/animais.pdb
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/animais/obj/Debug/net5.0/animais.genruntimeconfig.cache

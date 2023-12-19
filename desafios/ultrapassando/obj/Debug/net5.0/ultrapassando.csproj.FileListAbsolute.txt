@@ -1,0 +1,16 @@
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/ultrapassando/bin/Debug/net5.0/ultrapassando
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/ultrapassando/bin/Debug/net5.0/ultrapassando.deps.json
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/ultrapassando/bin/Debug/net5.0/ultrapassando.runtimeconfig.json
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/ultrapassando/bin/Debug/net5.0/ultrapassando.runtimeconfig.dev.json
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/ultrapassando/bin/Debug/net5.0/ultrapassando.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/ultrapassando/bin/Debug/net5.0/ref/ultrapassando.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/ultrapassando/bin/Debug/net5.0/ultrapassando.pdb
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/ultrapassando/obj/Debug/net5.0/ultrapassando.csprojAssemblyReference.cache
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/ultrapassando/obj/Debug/net5.0/ultrapassando.GeneratedMSBuildEditorConfig.editorconfig
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/ultrapassando/obj/Debug/net5.0/ultrapassando.AssemblyInfoInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/ultrapassando/obj/Debug/net5.0/ultrapassando.AssemblyInfo.cs
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/ultrapassando/obj/Debug/net5.0/ultrapassando.csproj.CoreCompileInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/ultrapassando/obj/Debug/net5.0/ultrapassando.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/ultrapassando/obj/Debug/net5.0/ref/ultrapassando.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/ultrapassando/obj/Debug/net5.0/ultrapassando.pdb
+/home/juninhsilva14/Documents/SI/cursos/cursoIntroduçãoProgramaçãoC#/desafios/ultrapassando/obj/Debug/net5.0/ultrapassando.genruntimeconfig.cache
